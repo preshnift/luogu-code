@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "python": "py -u",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -fexec-charset=GBK && $dir$fileNameWithoutExt"
+    }
+}
