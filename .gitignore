@@ -1,0 +1,22 @@
+# 编译出来的exe程序
+*.exe
+*.o
+*.obj
+*.out
+
+# Dev-C++、VS 编译缓存
+*.bak
+*.layout
+*.user
+*.sdf
+*.pdb
+*.ilk
+
+# 文件夹
+Debug/
+Release/
+bin/
+obj/
+
+# VSCode缓存
+.vscode/
